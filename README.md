@@ -44,18 +44,3 @@ python-calendar-scheduler/
 │── README.md
 ```
 
----
-
-## 🔮 Future Improvements
-
-* Sort tasks by date
-* Mark task as completed
-* Reminder notifications
-* Save tasks to file
-* GUI version
-
----
-
-## 👨‍💻 Author
-
-Made with Python for learning and practice.
