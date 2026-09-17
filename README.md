@@ -36,11 +36,4 @@ This application helps users manage tasks by adding, viewing, and deleting sched
 
 ---
 
-## 📂 Project Structure
-
-```text
-python-calendar-scheduler/
-│── scheduler.py
-│── README.md
-```
 
